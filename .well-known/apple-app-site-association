@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["8ZNDKLX6WP.com.sanjitrajendiran.unorder"],
+        "components": [
+          { "/": "/plaid/oauth*", "comment": "Plaid OAuth return" }
+        ]
+      }
+    ]
+  }
+}
